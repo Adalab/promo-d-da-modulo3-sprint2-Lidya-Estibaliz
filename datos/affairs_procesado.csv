@@ -1,0 +1,602 @@
+,affairs,gender,age,yearsmarried,children,religiousness,education,occupation,rating,age_cat
+0,Nunca,Hombre,37,9–11 años,No,Un poco religioso,Maestría,Trabajadores no cualificados,Más feliz que la media,35–39
+1,Nunca,Mujer,27,3–5 años,No,Bastante religioso,Alguna educación superior,Operarios semicapacitados,Más feliz que la media,25–29
+2,Nunca,Mujer,32,12 o más años,Sí,Anti religioso,Estudios secundarios,Altos ejecutivos,Más feliz que la media,30–34
+3,Nunca,Hombre,57,12 o más años,Sí,Muy religioso,Maestría,Operarios semicapacitados,Muy feliz,55 o más
+4,Nunca,Hombre,22,6 meses–1 año,No,Nada religioso,Algún estudio de posgrado,Operarios semicapacitados,Felicidad media,20–24
+5,Nunca,Mujer,32,1–2 años,No,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,30–34
+6,Nunca,Mujer,22,6 meses–1 año,No,Nada religioso,Estudios secundarios,Altos ejecutivos,Felicidad media,20–24
+7,Nunca,Hombre,57,12 o más años,Sí,Nada religioso,Alguna educación superior,"Clero, ventas y técnicos",Más feliz que la media,55 o más
+8,Nunca,Mujer,32,12 o más años,Sí,Bastante religioso,Estudios universitarios,Altos ejecutivos,Un poco infeliz,30–34
+9,Nunca,Hombre,22,1–2 años,No,Bastante religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,20–24
+10,Nunca,Hombre,37,12 o más años,Sí,Nada religioso,Doctorado,Trabajadores no cualificados,Un poco infeliz,35–39
+11,Nunca,Hombre,27,3–5 años,Sí,Bastante religioso,Maestría,Operarios semicapacitados,Más feliz que la media,25–29
+12,Nunca,Hombre,47,12 o más años,Sí,Muy religioso,Algún estudio de posgrado,Operarios semicapacitados,Más feliz que la media,45–49
+13,Nunca,Mujer,22,1–2 años,No,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,20–24
+14,Nunca,Mujer,27,3–5 años,No,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,25–29
+15,Nunca,Mujer,37,12 o más años,Sí,Anti religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,35–39
+16,Nunca,Mujer,37,12 o más años,Sí,Nada religioso,Maestría,"Clero, ventas y técnicos",Felicidad media,35–39
+17,Nunca,Mujer,22,6 meses–1 año,No,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,20–24
+18,Nunca,Mujer,22,1–2 años,No,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+19,Nunca,Mujer,27,9–11 años,Sí,Nada religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,25–29
+20,Nunca,Mujer,22,1–2 años,No,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+21,Nunca,Mujer,22,1–2 años,No,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+22,Nunca,Mujer,27,9–11 años,Sí,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,25–29
+23,Nunca,Mujer,32,9–11 años,Sí,Un poco religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,30–34
+24,Nunca,Hombre,37,3–5 años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,35–39
+25,Nunca,Mujer,22,1–2 años,No,Nada religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,20–24
+26,Nunca,Mujer,27,6–8 años,No,Bastante religioso,Estudios universitarios,Altos ejecutivos,Muy feliz,25–29
+27,Nunca,Hombre,42,12 o más años,Sí,Muy religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,40–44
+28,Nunca,Hombre,27,3–5 años,Sí,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,25–29
+29,Nunca,Mujer,27,3–5 años,Sí,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,25–29
+30,Nunca,Hombre,42,12 o más años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Felicidad media,40–44
+31,Nunca,Mujer,22,1–2 años,No,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+32,Nunca,Hombre,27,4–6 meses,No,Bastante religioso,Algún estudio de posgrado,Operarios semicapacitados,Más feliz que la media,25–29
+33,Nunca,Mujer,42,12 o más años,Sí,Muy religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,40–44
+34,Nunca,Hombre,32,3–5 años,Sí,Anti religioso,Maestría,Operarios semicapacitados,Más feliz que la media,30–34
+35,Nunca,Mujer,22,1–2 años,No,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Felicidad media,20–24
+36,Nunca,Mujer,42,12 o más años,Sí,Un poco religioso,Estudios secundarios,Altos ejecutivos,Más feliz que la media,40–44
+37,Nunca,Mujer,22,3–5 años,No,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,20–24
+38,Nunca,Hombre,22,1–2 años,Sí,Anti religioso,Alguna educación superior,Personal administrativo,Muy feliz,20–24
+39,Nunca,Mujer,22,6 meses–1 año,No,Un poco religioso,Estudios universitarios,Altos ejecutivos,Muy feliz,20–24
+40,Nunca,Hombre,32,9–11 años,Sí,Muy religioso,Doctorado,Operarios semicapacitados,Muy feliz,30–34
+41,Nunca,Hombre,52,12 o más años,Sí,Muy religioso,Maestría,Operarios semicapacitados,Felicidad media,50–54
+42,Nunca,Mujer,22,4–6 meses,No,Muy religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,20–24
+43,Nunca,Mujer,27,3–5 años,Sí,Nada religioso,Maestría,Operarios semicapacitados,Muy infeliz,25–29
+44,Nunca,Mujer,32,6–8 años,Sí,Muy religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Felicidad media,30–34
+45,Nunca,Hombre,22,3–5 años,No,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+46,Nunca,Mujer,27,6–8 años,Sí,Bastante religioso,Maestría,Operarios semicapacitados,Muy feliz,25–29
+47,Nunca,Mujer,42,12 o más años,Sí,Nada religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,40–44
+48,Nunca,Hombre,27,1–2 años,Sí,Bastante religioso,Estudios universitarios,Personal administrativo,Muy feliz,25–29
+49,Nunca,Hombre,42,12 o más años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,40–44
+50,Nunca,Mujer,22,6 meses–1 año,No,Muy religioso,Alguna educación superior,Personal administrativo,Muy feliz,20–24
+51,Nunca,Hombre,32,6–8 años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,30–34
+52,Nunca,Hombre,27,3–5 años,Sí,Muy religioso,Doctorado,Operarios semicapacitados,Muy feliz,25–29
+53,Nunca,Hombre,27,9–11 años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,25–29
+54,Nunca,Hombre,22,3–5 años,No,Anti religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,20–24
+55,Nunca,Mujer,37,12 o más años,Sí,Bastante religioso,Alguna educación superior,Personal administrativo,Muy infeliz,35–39
+56,Nunca,Hombre,22,1–2 años,Sí,Muy religioso,Estudios universitarios,"Clero, ventas y técnicos",Más feliz que la media,20–24
+57,Nunca,Mujer,37,12 o más años,Sí,Bastante religioso,Algún estudio de posgrado,Altos ejecutivos,Muy feliz,35–39
+58,Nunca,Mujer,27,6 meses–1 año,No,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,25–29
+59,Nunca,Hombre,32,9–11 años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,30–34
+60,Nunca,Mujer,47,12 o más años,Sí,Muy religioso,Alguna educación superior,Trabajadores no cualificados,Un poco infeliz,45–49
+61,Nunca,Hombre,37,9–11 años,Sí,Un poco religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,35–39
+62,Nunca,Mujer,22,6 meses–1 año,No,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+63,Nunca,Hombre,27,3–5 años,No,Nada religioso,Maestría,"Clero, ventas y técnicos",Muy feliz,25–29
+64,Nunca,Hombre,32,6–8 años,No,Bastante religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,30–34
+65,Nunca,Hombre,42,12 o más años,Sí,Nada religioso,Algún estudio de posgrado,Personal administrativo,Muy feliz,40–44
+66,Nunca,Hombre,37,9–11 años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,35–39
+67,Nunca,Mujer,47,12 o más años,Sí,Un poco religioso,Algún estudio de posgrado,Operarios semicapacitados,Muy feliz,45–49
+68,Nunca,Mujer,22,1–2 años,No,Muy religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+69,Nunca,Mujer,27,1–2 años,No,Nada religioso,Estudios universitarios,Operarios semicapacitados,Más feliz que la media,25–29
+70,Nunca,Mujer,27,3–5 años,No,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,25–29
+71,Nunca,Mujer,32,9–11 años,Sí,Muy religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,30–34
+72,Nunca,Mujer,22,3 meses o menos,No,Nada religioso,Estudios secundarios,Trabajadores manuales capacitados,Muy feliz,20–24
+73,Nunca,Hombre,47,12 o más años,Sí,Bastante religioso,Alguna educación superior,"Clero, ventas y técnicos",Felicidad media,45–49
+74,Nunca,Hombre,32,12 o más años,Sí,Anti religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,30–34
+75,Nunca,Hombre,27,6–8 años,Sí,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,25–29
+76,Nunca,Mujer,22,1–2 años,Sí,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+77,Nunca,Hombre,27,3–5 años,Sí,Un poco religioso,Algún estudio de posgrado,Operarios semicapacitados,Muy feliz,25–29
+78,Nunca,Mujer,22,1–2 años,No,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+79,Nunca,Hombre,57,12 o más años,Sí,Nada religioso,Alguna educación superior,Trabajadores no cualificados,Un poco infeliz,55 o más
+80,Nunca,Hombre,18,1–2 años,Sí,Un poco religioso,Maestría,Operarios semicapacitados,Muy feliz,Menor de 20
+81,Nunca,Hombre,57,12 o más años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Muy feliz,55 o más
+82,Nunca,Mujer,22,6 meses–1 año,No,Nada religioso,Estudios universitarios,Personal administrativo,Más feliz que la media,20–24
+83,Nunca,Hombre,42,3–5 años,No,Bastante religioso,Algún estudio de posgrado,Personal administrativo,Felicidad media,40–44
+84,Nunca,Mujer,22,1–2 años,Sí,Bastante religioso,Estudios secundarios,Altos ejecutivos,Muy feliz,20–24
+85,Nunca,Mujer,22,4–6 meses,No,Anti religioso,Algún estudio de posgrado,Operarios semicapacitados,Más feliz que la media,20–24
+86,Nunca,Mujer,32,12 o más años,Sí,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,30–34
+87,Nunca,Mujer,27,1–2 años,No,Un poco religioso,Maestría,Trabajadores manuales capacitados,Un poco infeliz,25–29
+88,Nunca,Mujer,22,1–2 años,Sí,Un poco religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,20–24
+89,Nunca,Mujer,37,12 o más años,Sí,Un poco religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,35–39
+90,Nunca,Mujer,32,12 o más años,Sí,Bastante religioso,Alguna educación superior,Personal administrativo,Más feliz que la media,30–34
+91,Nunca,Hombre,37,9–11 años,Sí,Nada religioso,Alguna educación superior,Trabajadores manuales capacitados,Felicidad media,35–39
+92,Nunca,Hombre,37,9–11 años,Sí,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,35–39
+93,Nunca,Hombre,57,12 o más años,Sí,Muy religioso,Doctorado,Trabajadores manuales capacitados,Felicidad media,55 o más
+94,Nunca,Hombre,27,4–6 meses,No,Anti religioso,Estudios universitarios,Personal administrativo,Más feliz que la media,25–29
+95,Nunca,Mujer,42,12 o más años,Sí,Muy religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,40–44
+96,Nunca,Hombre,57,12 o más años,Sí,Un poco religioso,Estudios universitarios,Operarios semicapacitados,Muy infeliz,55 o más
+97,Nunca,Hombre,37,9–11 años,Sí,Anti religioso,Estudios universitarios,Operarios semicapacitados,Más feliz que la media,35–39
+98,Nunca,Hombre,37,12 o más años,Sí,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,35–39
+99,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Muy feliz,35–39
+100,Nunca,Mujer,27,9–11 años,Sí,Muy religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,25–29
+101,Nunca,Hombre,37,9–11 años,Sí,Nada religioso,Maestría,Operarios semicapacitados,Más feliz que la media,35–39
+102,Nunca,Mujer,22,3 meses o menos,No,Bastante religioso,Estudios secundarios,"Clero, ventas y técnicos",Muy feliz,20–24
+103,Nunca,Hombre,57,12 o más años,Sí,Muy religioso,Doctorado,Operarios semicapacitados,Muy feliz,55 o más
+104,Nunca,Mujer,37,12 o más años,Sí,Bastante religioso,Maestría,Operarios semicapacitados,Más feliz que la media,35–39
+105,Nunca,Hombre,22,3–5 años,Sí,Bastante religioso,Alguna educación superior,Operarios semicapacitados,Más feliz que la media,20–24
+106,Nunca,Hombre,27,6–8 años,Sí,Bastante religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,25–29
+107,Nunca,Hombre,57,12 o más años,Sí,Bastante religioso,Doctorado,Trabajadores manuales capacitados,Más feliz que la media,55 o más
+108,Nunca,Hombre,32,12 o más años,Sí,Un poco religioso,Alguna educación superior,Operarios semicapacitados,Felicidad media,30–34
+109,Nunca,Mujer,22,1–2 años,No,Nada religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,20–24
+110,Nunca,Mujer,32,6–8 años,Sí,Bastante religioso,Algún estudio de posgrado,Altos ejecutivos,Muy feliz,30–34
+111,Nunca,Mujer,37,12 o más años,Sí,Bastante religioso,Algún estudio de posgrado,Operarios semicapacitados,Muy feliz,35–39
+112,Nunca,Mujer,32,1–2 años,No,Muy religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,30–34
+113,Nunca,Hombre,42,9–11 años,Sí,Muy religioso,Doctorado,Trabajadores no cualificados,Más feliz que la media,40–44
+114,Nunca,Mujer,27,6–8 años,No,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,25–29
+115,Nunca,Hombre,37,12 o más años,No,Bastante religioso,Doctorado,Operarios semicapacitados,Muy feliz,35–39
+116,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Alguna educación superior,Personal administrativo,Un poco infeliz,35–39
+117,Nunca,Hombre,32,9–11 años,No,Muy religioso,Maestría,Operarios semicapacitados,Más feliz que la media,30–34
+118,Nunca,Mujer,22,6 meses–1 año,No,Bastante religioso,Estudios universitarios,Altos ejecutivos,Muy feliz,20–24
+119,Nunca,Mujer,27,6–8 años,Sí,Bastante religioso,Estudios secundarios,Jefes de negocio,Más feliz que la media,25–29
+120,Nunca,Mujer,27,6–8 años,Sí,Nada religioso,Estudios universitarios,Jefes de negocio,Muy feliz,25–29
+121,Nunca,Mujer,42,12 o más años,Sí,Muy religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,40–44
+122,Nunca,Hombre,42,12 o más años,Sí,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Felicidad media,40–44
+123,Nunca,Mujer,27,6–8 años,Sí,Nada religioso,Estudios universitarios,Altos ejecutivos,Un poco infeliz,25–29
+124,Nunca,Mujer,22,1–2 años,No,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+125,Nunca,Hombre,37,12 o más años,Sí,Muy religioso,Doctorado,Operarios semicapacitados,Muy feliz,35–39
+126,Nunca,Mujer,22,3 meses o menos,No,Nada religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,20–24
+127,Nunca,Hombre,27,1–2 años,No,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,25–29
+128,Nunca,Hombre,32,1–2 años,No,Nada religioso,Maestría,Operarios semicapacitados,Muy feliz,30–34
+129,Nunca,Hombre,27,1–2 años,No,Nada religioso,Algún estudio de posgrado,Operarios semicapacitados,Muy feliz,25–29
+130,Nunca,Mujer,27,9–11 años,Sí,Bastante religioso,Estudios universitarios,Altos ejecutivos,Felicidad media,25–29
+131,Nunca,Hombre,42,12 o más años,Sí,Bastante religioso,Maestría,Operarios semicapacitados,Muy feliz,40–44
+132,Nunca,Mujer,27,1–2 años,No,Nada religioso,Estudios universitarios,Operarios semicapacitados,Muy feliz,25–29
+133,Nunca,Hombre,27,3–5 años,No,Nada religioso,Maestría,Operarios semicapacitados,Felicidad media,25–29
+134,Nunca,Mujer,32,9–11 años,Sí,Un poco religioso,Alguna educación superior,Trabajadores manuales capacitados,Felicidad media,30–34
+135,Nunca,Mujer,32,12 o más años,Sí,Un poco religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,30–34
+136,Nunca,Mujer,22,6 meses–1 año,No,Nada religioso,Maestría,Operarios semicapacitados,Muy feliz,20–24
+137,Nunca,Mujer,37,12 o más años,Sí,Nada religioso,Estudios universitarios,Altos ejecutivos,Más feliz que la media,35–39
+138,Nunca,Hombre,27,3–5 años,Sí,Bastante religioso,Doctorado,Trabajadores manuales capacitados,Muy feliz,25–29
+139,Nunca,Hombre,27,3–5 años,No,Anti religioso,Doctorado,Trabajadores manuales capacitados,Más feliz que la media,25–29
+140,Nunca,Mujer,27,9–11 años,Sí,Nada religioso,Estudios secundarios,Altos ejecutivos,Más feliz que la media,25–29
+141,Nunca,Mujer,32,12 o más años,Sí,Muy religioso,Maestría,Operarios semicapacitados,Más feliz que la media,30–34
+142,Nunca,Hombre,27,6–8 años,Sí,Muy religioso,Estudios secundarios,Trabajadores manuales capacitados,Felicidad media,25–29
+143,Nunca,Hombre,52,12 o más años,Sí,Nada religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,50–54
+144,Nunca,Hombre,27,3–5 años,No,Un poco religioso,Doctorado,Operarios semicapacitados,Felicidad media,25–29
+145,Nunca,Hombre,37,3–5 años,Sí,Anti religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,35–39
+146,Nunca,Hombre,27,3–5 años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,25–29
+147,Nunca,Mujer,52,12 o más años,Sí,Muy religioso,Estudios secundarios,Altos ejecutivos,Felicidad media,50–54
+148,Nunca,Mujer,57,12 o más años,Sí,Bastante religioso,Estudios universitarios,Operarios semicapacitados,Más feliz que la media,55 o más
+149,Nunca,Hombre,27,6–8 años,Sí,Anti religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,25–29
+150,Nunca,Hombre,37,6–8 años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Felicidad media,35–39
+151,Nunca,Hombre,22,6 meses–1 año,No,Nada religioso,Alguna educación superior,"Clero, ventas y técnicos",Felicidad media,20–24
+152,Nunca,Hombre,32,3–5 años,Sí,Nada religioso,Maestría,Trabajadores manuales capacitados,Felicidad media,30–34
+153,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Felicidad media,35–39
+154,Nunca,Hombre,22,6 meses–1 año,Sí,Nada religioso,Alguna educación superior,"Clero, ventas y técnicos",Felicidad media,20–24
+155,Nunca,Hombre,42,12 o más años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Felicidad media,40–44
+156,Nunca,Mujer,52,12 o más años,Sí,Muy religioso,Algún estudio de posgrado,Altos ejecutivos,Muy infeliz,50–54
+157,Nunca,Mujer,37,12 o más años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Un poco infeliz,35–39
+158,Nunca,Hombre,27,6–8 años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Felicidad media,25–29
+159,Nunca,Hombre,32,3–5 años,Sí,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,30–34
+160,Nunca,Mujer,27,3–5 años,Sí,Nada religioso,Maestría,Operarios semicapacitados,Muy feliz,25–29
+161,Nunca,Mujer,27,3–5 años,Sí,Nada religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,25–29
+162,Nunca,Hombre,37,12 o más años,Sí,Muy religioso,Maestría,Operarios semicapacitados,Muy feliz,35–39
+163,Nunca,Mujer,47,12 o más años,Sí,Muy religioso,Estudios secundarios,Trabajadores manuales capacitados,Más feliz que la media,45–49
+164,Nunca,Mujer,32,9–11 años,Sí,Un poco religioso,Algún estudio de posgrado,Altos ejecutivos,Más feliz que la media,30–34
+165,Nunca,Mujer,27,1–2 años,Sí,Bastante religioso,Algún estudio de posgrado,Altos ejecutivos,Un poco infeliz,25–29
+166,Nunca,Mujer,57,12 o más años,Sí,Nada religioso,Maestría,Trabajadores manuales capacitados,Un poco infeliz,55 o más
+167,Nunca,Mujer,22,1–2 años,No,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,20–24
+168,Nunca,Hombre,42,12 o más años,Sí,Un poco religioso,Alguna educación superior,Personal administrativo,Más feliz que la media,40–44
+169,Nunca,Hombre,57,12 o más años,Sí,Bastante religioso,Estudios primarios,Jefes de negocio,Un poco infeliz,55 o más
+170,Nunca,Hombre,57,12 o más años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Muy feliz,55 o más
+171,Nunca,Mujer,22,3 meses o menos,No,Bastante religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,20–24
+172,Nunca,Mujer,32,9–11 años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,30–34
+173,Nunca,Mujer,42,12 o más años,Sí,Un poco religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,40–44
+174,Nunca,Mujer,27,1–2 años,No,Nada religioso,Maestría,Operarios semicapacitados,Muy feliz,25–29
+175,Nunca,Hombre,32,3 meses o menos,Sí,Nada religioso,Maestría,Trabajadores manuales capacitados,Un poco infeliz,30–34
+176,Nunca,Mujer,27,3–5 años,No,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,25–29
+177,Nunca,Mujer,27,9–11 años,Sí,Nada religioso,Estudios universitarios,Altos ejecutivos,Más feliz que la media,25–29
+178,Nunca,Mujer,32,6–8 años,Sí,Bastante religioso,Estudios universitarios,Altos ejecutivos,Felicidad media,30–34
+179,Nunca,Mujer,37,12 o más años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,35–39
+180,Nunca,Mujer,42,12 o más años,Sí,Muy religioso,Algún estudio de posgrado,Operarios semicapacitados,Un poco infeliz,40–44
+181,Nunca,Hombre,32,1–2 años,Sí,Bastante religioso,Alguna educación superior,Operarios semicapacitados,Muy feliz,30–34
+182,Nunca,Mujer,32,3–5 años,Sí,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Felicidad media,30–34
+183,Nunca,Mujer,37,6–8 años,No,Bastante religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,35–39
+184,Nunca,Mujer,22,4–6 meses,Sí,Un poco religioso,Alguna educación superior,Personal administrativo,Muy feliz,20–24
+185,Nunca,Mujer,27,6–8 años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,25–29
+186,Nunca,Hombre,27,6 meses–1 año,No,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,25–29
+187,Nunca,Hombre,27,3–5 años,Sí,Nada religioso,Doctorado,Trabajadores manuales capacitados,Muy feliz,25–29
+188,Nunca,Hombre,32,9–11 años,Sí,Bastante religioso,Estudios universitarios,"Clero, ventas y técnicos",Muy feliz,30–34
+189,Nunca,Hombre,32,12 o más años,Sí,Anti religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,30–34
+190,Nunca,Hombre,22,6 meses–1 año,No,Un poco religioso,Algún estudio de posgrado,"Clero, ventas y técnicos",Muy feliz,20–24
+191,Nunca,Mujer,27,6–8 años,Sí,Bastante religioso,Algún estudio de posgrado,Altos ejecutivos,Más feliz que la media,25–29
+192,Nunca,Hombre,27,4–6 meses,Sí,Bastante religioso,Doctorado,Trabajadores manuales capacitados,Más feliz que la media,25–29
+193,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Doctorado,Trabajadores manuales capacitados,Más feliz que la media,35–39
+194,Nunca,Mujer,37,12 o más años,Sí,Nada religioso,Alguna educación superior,Altos ejecutivos,Felicidad media,35–39
+195,Nunca,Hombre,22,3–5 años,Sí,Anti religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,20–24
+196,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Felicidad media,35–39
+197,Nunca,Mujer,22,1–2 años,No,Nada religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,20–24
+198,Nunca,Hombre,52,12 o más años,Sí,Bastante religioso,Alguna educación superior,Operarios semicapacitados,Un poco infeliz,50–54
+199,Nunca,Mujer,22,1–2 años,No,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,20–24
+200,Nunca,Hombre,32,3–5 años,Sí,Muy religioso,Alguna educación superior,Personal administrativo,Muy feliz,30–34
+201,Nunca,Hombre,32,3–5 años,Sí,Nada religioso,Alguna educación superior,Personal administrativo,Muy feliz,30–34
+202,Nunca,Mujer,22,1–2 años,No,Un poco religioso,Estudios universitarios,Operarios semicapacitados,Muy feliz,20–24
+203,Nunca,Hombre,27,6 meses–1 año,No,Nada religioso,Maestría,Personal administrativo,Felicidad media,25–29
+204,Nunca,Mujer,22,6–8 años,Sí,Nada religioso,Alguna educación superior,Trabajadores manuales capacitados,Un poco infeliz,20–24
+205,Nunca,Mujer,27,6 meses–1 año,No,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Felicidad media,25–29
+206,Nunca,Mujer,37,12 o más años,Sí,Bastante religioso,Estudios secundarios,Altos ejecutivos,Un poco infeliz,35–39
+207,Nunca,Mujer,22,1–2 años,No,Anti religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,20–24
+208,Nunca,Mujer,37,9–11 años,No,Nada religioso,Estudios secundarios,"Clero, ventas y técnicos",Más feliz que la media,35–39
+209,Nunca,Mujer,37,12 o más años,Sí,Bastante religioso,Maestría,Trabajadores manuales capacitados,Felicidad media,35–39
+210,Nunca,Mujer,42,12 o más años,Sí,Un poco religioso,Estudios secundarios,Personal administrativo,Felicidad media,40–44
+211,Nunca,Hombre,22,3–5 años,No,Nada religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,20–24
+212,Nunca,Hombre,52,6–8 años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Un poco infeliz,50–54
+213,Nunca,Hombre,27,6 meses–1 año,No,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,25–29
+214,Nunca,Mujer,27,3–5 años,No,Nada religioso,Algún estudio de posgrado,"Clero, ventas y técnicos",Muy feliz,25–29
+215,Nunca,Hombre,42,1–2 años,No,Muy religioso,Doctorado,Operarios semicapacitados,Muy feliz,40–44
+216,Nunca,Hombre,22,1–2 años,No,Bastante religioso,Algún estudio de posgrado,Operarios semicapacitados,Muy feliz,20–24
+217,Nunca,Hombre,22,3–5 años,No,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Felicidad media,20–24
+218,Nunca,Mujer,22,3–5 años,Sí,Anti religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,20–24
+219,Nunca,Hombre,37,12 o más años,Sí,Muy religioso,Doctorado,"Clero, ventas y técnicos",Muy feliz,35–39
+220,Nunca,Mujer,37,9–11 años,Sí,Un poco religioso,Estudios universitarios,Operarios semicapacitados,Felicidad media,35–39
+221,Nunca,Hombre,42,12 o más años,Sí,Bastante religioso,Algún estudio de posgrado,Operarios semicapacitados,Muy feliz,40–44
+222,Nunca,Mujer,47,12 o más años,Sí,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,45–49
+223,Nunca,Hombre,22,1–2 años,No,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,20–24
+224,Nunca,Mujer,32,9–11 años,Sí,Un poco religioso,Estudios secundarios,Altos ejecutivos,Más feliz que la media,30–34
+225,Nunca,Mujer,22,6–8 años,Sí,Anti religioso,Alguna educación superior,Personal administrativo,Muy feliz,20–24
+226,Nunca,Mujer,32,9–11 años,Sí,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,30–34
+227,Nunca,Hombre,27,1–2 años,Sí,Nada religioso,Estudios universitarios,Jefes de negocio,Más feliz que la media,25–29
+228,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,35–39
+229,Nunca,Hombre,42,3–5 años,Sí,Un poco religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,40–44
+230,Nunca,Mujer,37,12 o más años,Sí,Muy religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,35–39
+231,Nunca,Mujer,32,6–8 años,Sí,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,30–34
+232,Nunca,Mujer,42,12 o más años,Sí,Bastante religioso,Maestría,Operarios semicapacitados,Muy feliz,40–44
+233,Nunca,Hombre,27,3–5 años,No,Bastante religioso,Maestría,Operarios semicapacitados,Más feliz que la media,25–29
+234,Nunca,Hombre,22,6 meses–1 año,No,Bastante religioso,Maestría,Operarios semicapacitados,Muy feliz,20–24
+235,Nunca,Hombre,27,3–5 años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Felicidad media,25–29
+236,Nunca,Mujer,22,6 meses–1 año,No,Muy religioso,Maestría,Altos ejecutivos,Muy feliz,20–24
+237,Nunca,Mujer,52,12 o más años,Sí,Muy religioso,Estudios primarios,Trabajadores manuales capacitados,Muy feliz,50–54
+238,Nunca,Hombre,32,9–11 años,Sí,Un poco religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,30–34
+239,Nunca,Mujer,37,12 o más años,Sí,Bastante religioso,Estudios universitarios,"Clero, ventas y técnicos",Más feliz que la media,35–39
+240,Nunca,Hombre,32,6–8 años,Sí,Nada religioso,Doctorado,Trabajadores manuales capacitados,Más feliz que la media,30–34
+241,Nunca,Mujer,42,12 o más años,Sí,Un poco religioso,Maestría,Altos ejecutivos,Más feliz que la media,40–44
+242,Nunca,Hombre,32,12 o más años,Sí,Anti religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,30–34
+243,Nunca,Hombre,27,3–5 años,Sí,Un poco religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,25–29
+244,Nunca,Mujer,32,12 o más años,Sí,Bastante religioso,Estudios secundarios,Personal administrativo,Más feliz que la media,30–34
+245,Nunca,Hombre,22,6 meses–1 año,Sí,Un poco religioso,Alguna educación superior,Jefes de negocio,Más feliz que la media,20–24
+246,Nunca,Mujer,22,1–2 años,No,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Felicidad media,20–24
+247,Nunca,Mujer,42,12 o más años,Sí,Bastante religioso,Alguna educación superior,Personal administrativo,Muy feliz,40–44
+248,Nunca,Mujer,52,12 o más años,Sí,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,50–54
+249,Nunca,Hombre,37,12 o más años,Sí,Muy religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,35–39
+250,Nunca,Mujer,47,12 o más años,Sí,Bastante religioso,Estudios secundarios,Jefes de negocio,Felicidad media,45–49
+251,Nunca,Hombre,57,12 o más años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,55 o más
+252,Nunca,Hombre,32,6–8 años,Sí,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,30–34
+253,Nunca,Mujer,27,6–8 años,Sí,Bastante religioso,Algún estudio de posgrado,Altos ejecutivos,Más feliz que la media,25–29
+254,Nunca,Hombre,22,1–2 años,No,Anti religioso,Maestría,Operarios semicapacitados,Muy feliz,20–24
+255,Nunca,Mujer,22,3–5 años,Sí,Un poco religioso,Estudios primarios,Altos ejecutivos,Más feliz que la media,20–24
+256,Nunca,Mujer,22,1–2 años,No,Nada religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,20–24
+257,Nunca,Hombre,42,12 o más años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,40–44
+258,Nunca,Hombre,57,12 o más años,Sí,Bastante religioso,Estudios primarios,Jefes de negocio,Más feliz que la media,55 o más
+259,Nunca,Mujer,27,6–8 años,Sí,Nada religioso,Maestría,Altos ejecutivos,Muy feliz,25–29
+260,Nunca,Mujer,22,3–5 años,Sí,Un poco religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,20–24
+261,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Felicidad media,35–39
+262,Nunca,Hombre,32,6–8 años,Sí,Anti religioso,Maestría,Operarios semicapacitados,Más feliz que la media,30–34
+263,Nunca,Mujer,22,1–2 años,No,Nada religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,20–24
+264,Nunca,Mujer,22,1–2 años,Sí,Un poco religioso,Estudios secundarios,Altos ejecutivos,Felicidad media,20–24
+265,Nunca,Hombre,52,12 o más años,Sí,Nada religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,50–54
+266,Nunca,Mujer,37,12 o más años,Sí,Nada religioso,Alguna educación superior,Altos ejecutivos,Muy infeliz,35–39
+267,Nunca,Mujer,32,9–11 años,Sí,Nada religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,30–34
+268,Nunca,Hombre,42,12 o más años,Sí,Bastante religioso,Doctorado,"Clero, ventas y técnicos",Muy feliz,40–44
+269,Nunca,Mujer,27,3–5 años,Sí,Un poco religioso,Maestría,"Clero, ventas y técnicos",Muy feliz,25–29
+270,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Muy feliz,35–39
+271,Nunca,Hombre,27,1–2 años,No,Un poco religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,25–29
+272,Nunca,Mujer,22,3 meses o menos,No,Nada religioso,Estudios universitarios,Operarios semicapacitados,Felicidad media,20–24
+273,Nunca,Hombre,32,9–11 años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Felicidad media,30–34
+274,Nunca,Mujer,27,3–5 años,No,Bastante religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,25–29
+275,Nunca,Mujer,27,6–8 años,Sí,Nada religioso,Estudios secundarios,Trabajadores manuales capacitados,Muy infeliz,25–29
+276,Nunca,Hombre,32,3–5 años,Sí,Muy religioso,Maestría,Operarios semicapacitados,Felicidad media,30–34
+277,Nunca,Mujer,37,12 o más años,Sí,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,35–39
+278,Nunca,Hombre,47,12 o más años,No,Bastante religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,45–49
+279,Nunca,Hombre,27,1–2 años,No,Anti religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,25–29
+280,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,35–39
+281,Nunca,Mujer,32,12 o más años,Sí,Bastante religioso,Maestría,Altos ejecutivos,Más feliz que la media,30–34
+282,Nunca,Mujer,32,6–8 años,Sí,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,30–34
+283,Nunca,Mujer,42,12 o más años,Sí,Un poco religioso,Alguna educación superior,Altos ejecutivos,Felicidad media,40–44
+284,Nunca,Mujer,27,6–8 años,Sí,Un poco religioso,Estudios universitarios,Altos ejecutivos,Más feliz que la media,25–29
+285,Nunca,Hombre,27,1–2 años,No,Un poco religioso,Estudios universitarios,"Clero, ventas y técnicos",Un poco infeliz,25–29
+286,Nunca,Hombre,22,1–2 años,No,Un poco religioso,Estudios universitarios,Personal administrativo,Muy feliz,20–24
+287,Nunca,Hombre,27,3–5 años,Sí,Un poco religioso,Estudios universitarios,"Clero, ventas y técnicos",Un poco infeliz,25–29
+288,Nunca,Mujer,27,6–8 años,Sí,Un poco religioso,Estudios secundarios,Altos ejecutivos,Un poco infeliz,25–29
+289,Nunca,Mujer,37,12 o más años,Sí,Nada religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,35–39
+290,Nunca,Mujer,37,6–8 años,Sí,Un poco religioso,Alguna educación superior,"Clero, ventas y técnicos",Más feliz que la media,35–39
+291,Nunca,Hombre,22,1–2 años,No,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+292,Nunca,Hombre,37,12 o más años,Sí,Muy religioso,Doctorado,Trabajadores manuales capacitados,Más feliz que la media,35–39
+293,Nunca,Mujer,22,1–2 años,No,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Felicidad media,20–24
+294,Nunca,Mujer,32,9–11 años,Sí,Bastante religioso,Estudios universitarios,Altos ejecutivos,Muy feliz,30–34
+295,Nunca,Hombre,27,3–5 años,No,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Felicidad media,25–29
+296,Nunca,Mujer,22,4–6 meses,No,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,20–24
+297,Nunca,Mujer,27,3–5 años,No,Nada religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,25–29
+298,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Maestría,Trabajadores manuales capacitados,Felicidad media,35–39
+299,Nunca,Hombre,37,9–11 años,Sí,Muy religioso,Doctorado,Trabajadores no cualificados,Más feliz que la media,35–39
+300,Nunca,Mujer,27,6–8 años,Sí,Nada religioso,Alguna educación superior,"Clero, ventas y técnicos",Un poco infeliz,25–29
+301,Nunca,Hombre,32,3–5 años,Sí,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,30–34
+302,Nunca,Hombre,32,3–5 años,Sí,Nada religioso,Estudios universitarios,Operarios semicapacitados,Más feliz que la media,30–34
+303,Nunca,Hombre,22,1–2 años,No,Un poco religioso,Maestría,"Clero, ventas y técnicos",Muy feliz,20–24
+304,Nunca,Mujer,22,3–5 años,Sí,Bastante religioso,Alguna educación superior,Personal administrativo,Más feliz que la media,20–24
+305,Nunca,Mujer,18,6 meses–1 año,No,Nada religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,Menor de 20
+306,Nunca,Hombre,32,9–11 años,Sí,Bastante religioso,Doctorado,"Clero, ventas y técnicos",Muy feliz,30–34
+307,Nunca,Mujer,32,6 meses–1 año,No,Muy religioso,Alguna educación superior,Personal administrativo,Felicidad media,30–34
+308,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Felicidad media,35–39
+309,Nunca,Hombre,32,3–5 años,No,Un poco religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,30–34
+310,Nunca,Mujer,27,1–2 años,No,Nada religioso,Algún estudio de posgrado,Personal administrativo,Un poco infeliz,25–29
+311,Nunca,Mujer,22,6–8 años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,20–24
+312,Nunca,Hombre,47,12 o más años,Sí,Muy religioso,Alguna educación superior,Operarios semicapacitados,Muy feliz,45–49
+313,Nunca,Hombre,27,3–5 años,Sí,Anti religioso,Estudios universitarios,"Clero, ventas y técnicos",Más feliz que la media,25–29
+314,Nunca,Mujer,37,12 o más años,Sí,Muy religioso,Alguna educación superior,Altos ejecutivos,Felicidad media,35–39
+315,Nunca,Hombre,42,3–5 años,Sí,Bastante religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,40–44
+316,Nunca,Mujer,32,3–5 años,Sí,Nada religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,30–34
+317,Nunca,Hombre,52,12 o más años,Sí,Nada religioso,Alguna educación superior,Trabajadores no cualificados,Más feliz que la media,50–54
+318,Nunca,Mujer,22,1–2 años,No,Nada religioso,Estudios universitarios,Altos ejecutivos,Más feliz que la media,20–24
+319,Nunca,Hombre,52,12 o más años,Sí,Bastante religioso,Estudios secundarios,Jefes de negocio,Más feliz que la media,50–54
+320,Nunca,Mujer,22,4–6 meses,No,Un poco religioso,Algún estudio de posgrado,Altos ejecutivos,Muy feliz,20–24
+321,Nunca,Mujer,22,1–2 años,No,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+322,Nunca,Hombre,27,3–5 años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,25–29
+323,Nunca,Mujer,32,12 o más años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,30–34
+324,Nunca,Mujer,27,1–2 años,No,Nada religioso,Estudios universitarios,Personal administrativo,Muy feliz,25–29
+325,Nunca,Hombre,32,3–5 años,No,Anti religioso,Doctorado,Operarios semicapacitados,Muy feliz,30–34
+326,Nunca,Hombre,37,12 o más años,Sí,Un poco religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,35–39
+327,Nunca,Mujer,32,9–11 años,No,Nada religioso,Estudios universitarios,Operarios semicapacitados,Muy feliz,30–34
+328,Nunca,Mujer,32,9–11 años,Sí,Muy religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,30–34
+329,Nunca,Hombre,37,1–2 años,Sí,Bastante religioso,Maestría,Trabajadores manuales capacitados,Felicidad media,35–39
+330,Nunca,Hombre,32,1–2 años,No,Nada religioso,Maestría,"Clero, ventas y técnicos",Más feliz que la media,30–34
+331,Nunca,Mujer,32,9–11 años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,30–34
+332,Nunca,Mujer,47,12 o más años,Sí,Bastante religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,45–49
+333,Nunca,Mujer,27,9–11 años,Sí,Muy religioso,Estudios secundarios,Altos ejecutivos,Muy feliz,25–29
+334,Nunca,Hombre,27,3–5 años,Sí,Un poco religioso,Estudios universitarios,"Clero, ventas y técnicos",Muy feliz,25–29
+335,Nunca,Mujer,37,12 o más años,Sí,Bastante religioso,Estudios secundarios,"Clero, ventas y técnicos",Un poco infeliz,35–39
+336,Nunca,Mujer,27,6 meses–1 año,No,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,25–29
+337,Nunca,Mujer,37,12 o más años,Sí,Bastante religioso,Estudios universitarios,Altos ejecutivos,Muy feliz,35–39
+338,Nunca,Mujer,32,12 o más años,Sí,Un poco religioso,Estudios universitarios,Altos ejecutivos,Muy feliz,30–34
+339,Nunca,Mujer,27,9–11 años,Sí,Nada religioso,Estudios universitarios,Altos ejecutivos,Muy feliz,25–29
+340,Nunca,Hombre,27,6–8 años,No,Nada religioso,Doctorado,Operarios semicapacitados,Muy feliz,25–29
+341,Nunca,Mujer,37,12 o más años,Sí,Nada religioso,Alguna educación superior,Altos ejecutivos,Felicidad media,35–39
+342,Nunca,Hombre,27,1–2 años,Sí,Nada religioso,Algún estudio de posgrado,"Clero, ventas y técnicos",Más feliz que la media,25–29
+343,Nunca,Mujer,22,6 meses–1 año,Sí,Nada religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,20–24
+344,Nunca,Hombre,22,3–5 años,Sí,Bastante religioso,Alguna educación superior,Jefes de negocio,Más feliz que la media,20–24
+345,Nunca,Hombre,42,3 meses o menos,No,Bastante religioso,Algún estudio de posgrado,Operarios semicapacitados,Más feliz que la media,40–44
+346,Nunca,Hombre,27,1–2 años,Sí,Bastante religioso,Maestría,Operarios semicapacitados,Muy feliz,25–29
+347,Nunca,Hombre,27,6–8 años,Sí,Un poco religioso,Estudios universitarios,Operarios semicapacitados,Felicidad media,25–29
+348,Nunca,Mujer,52,12 o más años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Felicidad media,50–54
+349,Nunca,Hombre,27,1–2 años,No,Muy religioso,Doctorado,Trabajadores manuales capacitados,Un poco infeliz,25–29
+350,Nunca,Mujer,27,1–2 años,No,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,25–29
+351,Nunca,Mujer,27,1–2 años,No,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,25–29
+352,Nunca,Hombre,22,3 meses o menos,No,Muy religioso,Estudios universitarios,"Clero, ventas y técnicos",Más feliz que la media,20–24
+353,Nunca,Mujer,27,3–5 años,Sí,Bastante religioso,Estudios universitarios,Altos ejecutivos,Muy feliz,25–29
+354,Nunca,Mujer,27,3–5 años,Sí,Bastante religioso,Estudios secundarios,Altos ejecutivos,Muy feliz,25–29
+355,Nunca,Mujer,47,12 o más años,Sí,Nada religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,45–49
+356,Nunca,Mujer,32,12 o más años,Sí,Un poco religioso,Alguna educación superior,Trabajadores manuales capacitados,Felicidad media,30–34
+357,Nunca,Hombre,42,6–8 años,Sí,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,40–44
+358,Nunca,Hombre,22,6 meses–1 año,No,Bastante religioso,Estudios universitarios,Operarios semicapacitados,Más feliz que la media,20–24
+359,Nunca,Hombre,27,3 meses o menos,No,Un poco religioso,Doctorado,Operarios semicapacitados,Muy feliz,25–29
+360,Nunca,Hombre,32,9–11 años,Sí,Un poco religioso,Doctorado,Operarios semicapacitados,Muy feliz,30–34
+361,Nunca,Mujer,22,4–6 meses,No,Muy religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,20–24
+362,Nunca,Mujer,47,12 o más años,Sí,Muy religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,45–49
+363,Nunca,Mujer,32,9–11 años,Sí,Un poco religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,30–34
+364,Nunca,Hombre,57,12 o más años,Sí,Bastante religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,55 o más
+365,Nunca,Hombre,27,3–5 años,Sí,Un poco religioso,Doctorado,Operarios semicapacitados,Muy feliz,25–29
+366,Nunca,Mujer,32,6–8 años,Sí,Bastante religioso,Algún estudio de posgrado,Altos ejecutivos,Muy feliz,30–34
+367,Nunca,Mujer,37,9–11 años,Sí,Bastante religioso,Estudios universitarios,Altos ejecutivos,Muy feliz,35–39
+368,Nunca,Mujer,32,9–11 años,Sí,Anti religioso,Maestría,Altos ejecutivos,Más feliz que la media,30–34
+369,Nunca,Mujer,22,3–5 años,No,Un poco religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,20–24
+370,Nunca,Mujer,27,6–8 años,Sí,Bastante religioso,Alguna educación superior,Personal administrativo,Un poco infeliz,25–29
+371,Nunca,Hombre,57,12 o más años,Sí,Muy religioso,Maestría,Trabajadores manuales capacitados,Un poco infeliz,55 o más
+372,Nunca,Hombre,32,6–8 años,Sí,Nada religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,30–34
+373,Nunca,Mujer,27,1–2 años,No,Bastante religioso,Algún estudio de posgrado,Altos ejecutivos,Felicidad media,25–29
+374,Nunca,Hombre,22,1–2 años,No,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,20–24
+375,Nunca,Mujer,22,1–2 años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,20–24
+376,Nunca,Mujer,32,6–8 años,Sí,Un poco religioso,Estudios universitarios,Altos ejecutivos,Muy feliz,30–34
+377,Nunca,Mujer,47,12 o más años,Sí,Un poco religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,45–49
+378,Nunca,Mujer,22,6 meses–1 año,No,Un poco religioso,Estudios universitarios,Altos ejecutivos,Muy feliz,20–24
+379,Nunca,Mujer,22,1–2 años,Sí,Nada religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,20–24
+380,Nunca,Mujer,27,3–5 años,Sí,Anti religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,25–29
+381,Nunca,Hombre,52,12 o más años,Sí,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,50–54
+382,Nunca,Hombre,32,9–11 años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Muy feliz,30–34
+383,Nunca,Hombre,47,12 o más años,Sí,Bastante religioso,Estudios universitarios,Operarios semicapacitados,Más feliz que la media,45–49
+384,Nunca,Mujer,27,6–8 años,Sí,Nada religioso,Alguna educación superior,Altos ejecutivos,Un poco infeliz,25–29
+385,Nunca,Mujer,22,1–2 años,No,Bastante religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,20–24
+386,Nunca,Mujer,32,9–11 años,Sí,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,30–34
+387,Nunca,Mujer,22,6 meses–1 año,No,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,20–24
+388,Nunca,Mujer,22,1–2 años,No,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+389,Nunca,Mujer,42,12 o más años,Sí,Un poco religioso,Maestría,Operarios semicapacitados,Más feliz que la media,40–44
+390,Nunca,Mujer,27,6–8 años,Sí,Muy religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,25–29
+391,Nunca,Hombre,42,12 o más años,Sí,Bastante religioso,Estudios universitarios,"Clero, ventas y técnicos",Más feliz que la media,40–44
+392,Nunca,Mujer,57,12 o más años,Sí,Un poco religioso,Maestría,Trabajadores manuales capacitados,Un poco infeliz,55 o más
+393,Nunca,Hombre,42,12 o más años,Sí,Un poco religioso,Maestría,Operarios semicapacitados,Un poco infeliz,40–44
+394,Nunca,Mujer,32,6–8 años,Sí,Nada religioso,Alguna educación superior,Altos ejecutivos,Un poco infeliz,30–34
+395,Nunca,Hombre,22,3–5 años,No,Muy religioso,Estudios secundarios,"Clero, ventas y técnicos",Muy feliz,20–24
+396,Nunca,Mujer,22,1–2 años,No,Anti religioso,Estudios universitarios,Operarios semicapacitados,Muy feliz,20–24
+397,Nunca,Mujer,22,6 meses–1 año,No,Anti religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,20–24
+398,Nunca,Mujer,32,12 o más años,Sí,Bastante religioso,Estudios secundarios,Altos ejecutivos,Muy feliz,30–34
+399,Nunca,Hombre,22,1–2 años,No,Nada religioso,Maestría,Trabajadores manuales capacitados,Felicidad media,20–24
+400,Nunca,Hombre,27,3–5 años,Sí,Muy religioso,Algún estudio de posgrado,Jefes de negocio,Muy feliz,25–29
+401,Nunca,Mujer,27,3–5 años,Sí,Bastante religioso,Estudios secundarios,Altos ejecutivos,Muy feliz,25–29
+402,Nunca,Hombre,42,12 o más años,Sí,Muy religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,40–44
+403,Nunca,Hombre,32,1–2 años,No,Nada religioso,Doctorado,Trabajadores no cualificados,Felicidad media,30–34
+404,Nunca,Hombre,57,12 o más años,No,Bastante religioso,Estudios primarios,Personal administrativo,Muy infeliz,55 o más
+405,Nunca,Hombre,37,6–8 años,No,Bastante religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,35–39
+406,Nunca,Hombre,52,12 o más años,Sí,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,50–54
+407,Nunca,Hombre,47,12 o más años,Sí,Bastante religioso,Algún estudio de posgrado,Operarios semicapacitados,Muy feliz,45–49
+408,Nunca,Mujer,27,6–8 años,No,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,25–29
+409,Nunca,Mujer,27,6–8 años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,25–29
+410,Nunca,Mujer,22,3–5 años,No,Nada religioso,Alguna educación superior,Personal administrativo,Felicidad media,20–24
+411,Nunca,Hombre,37,6–8 años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Muy feliz,35–39
+412,Nunca,Hombre,27,6–8 años,No,Bastante religioso,Estudios secundarios,"Clero, ventas y técnicos",Felicidad media,25–29
+413,Nunca,Hombre,42,9–11 años,Sí,Bastante religioso,Maestría,Operarios semicapacitados,Más feliz que la media,40–44
+414,Nunca,Mujer,22,1–2 años,No,Un poco religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,20–24
+415,Nunca,Mujer,22,3–5 años,Sí,Nada religioso,Alguna educación superior,Altos ejecutivos,Felicidad media,20–24
+416,Nunca,Mujer,57,12 o más años,No,Bastante religioso,Doctorado,Operarios semicapacitados,Muy feliz,55 o más
+417,Nunca,Hombre,37,12 o más años,Sí,Bastante religioso,Alguna educación superior,"Clero, ventas y técnicos",Felicidad media,35–39
+418,Nunca,Mujer,27,6–8 años,Sí,Un poco religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,25–29
+419,Nunca,Mujer,18,9–11 años,No,Bastante religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,Menor de 20
+420,Nunca,Hombre,22,3–5 años,Sí,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+421,Nunca,Mujer,27,3–5 años,Sí,Nada religioso,Estudios universitarios,Altos ejecutivos,Más feliz que la media,25–29
+422,Nunca,Mujer,37,12 o más años,Sí,Nada religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy infeliz,35–39
+423,Nunca,Mujer,22,1–2 años,No,Muy religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,20–24
+424,Nunca,Hombre,27,6–8 años,Sí,Nada religioso,Doctorado,Trabajadores manuales capacitados,Más feliz que la media,25–29
+425,Nunca,Hombre,27,3–5 años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,25–29
+426,Nunca,Hombre,22,3 meses o menos,No,Anti religioso,Estudios universitarios,Personal administrativo,Muy feliz,20–24
+427,Nunca,Mujer,27,6–8 años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,25–29
+428,Nunca,Mujer,32,12 o más años,Sí,Muy religioso,Estudios universitarios,Trabajadores manuales capacitados,Felicidad media,30–34
+429,Nunca,Hombre,32,9–11 años,Sí,Bastante religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,30–34
+430,Nunca,Mujer,32,12 o más años,Sí,Nada religioso,Alguna educación superior,Personal administrativo,Más feliz que la media,30–34
+431,Nunca,Mujer,22,1–2 años,No,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,20–24
+432,Nunca,Hombre,27,3–5 años,Sí,Bastante religioso,Algún estudio de posgrado,"Clero, ventas y técnicos",Más feliz que la media,25–29
+433,Nunca,Mujer,52,12 o más años,Sí,Muy religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,50–54
+434,Nunca,Mujer,27,6–8 años,Sí,Nada religioso,Estudios secundarios,Altos ejecutivos,Un poco infeliz,25–29
+435,Nunca,Mujer,27,6–8 años,Sí,Un poco religioso,Estudios secundarios,Altos ejecutivos,Más feliz que la media,25–29
+436,Nunca,Mujer,42,12 o más años,Sí,Nada religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,40–44
+437,Nunca,Mujer,42,12 o más años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,40–44
+438,Nunca,Hombre,27,6–8 años,Sí,Bastante religioso,Alguna educación superior,Personal administrativo,Felicidad media,25–29
+439,Nunca,Hombre,27,6–8 años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Un poco infeliz,25–29
+440,Nunca,Mujer,42,12 o más años,Sí,Un poco religioso,Estudios secundarios,Personal administrativo,Felicidad media,40–44
+441,Nunca,Hombre,27,3–5 años,Sí,Un poco religioso,Estudios universitarios,Personal administrativo,Muy feliz,25–29
+442,Nunca,Mujer,27,6–8 años,Sí,Un poco religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,25–29
+443,Nunca,Mujer,22,1–2 años,No,Nada religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,20–24
+444,Nunca,Mujer,27,3–5 años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,25–29
+445,Nunca,Mujer,22,3–5 años,No,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,20–24
+446,Nunca,Mujer,22,1–2 años,No,Nada religioso,Estudios universitarios,"Clero, ventas y técnicos",Muy feliz,20–24
+447,Nunca,Hombre,47,12 o más años,No,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,45–49
+448,Nunca,Hombre,37,9–11 años,Sí,Nada religioso,Maestría,Operarios semicapacitados,Un poco infeliz,35–39
+449,Nunca,Hombre,37,12 o más años,Sí,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,35–39
+450,Nunca,Mujer,27,3–5 años,Sí,Nada religioso,Estudios universitarios,Altos ejecutivos,Más feliz que la media,25–29
+451,3 veces,Hombre,27,1–2 años,No,Un poco religioso,Maestría,"Clero, ventas y técnicos",Más feliz que la media,25–29
+452,3 veces,Mujer,27,3–5 años,Sí,Un poco religioso,Algún estudio de posgrado,Altos ejecutivos,Muy feliz,25–29
+453,4–10 veces,Hombre,37,12 o más años,Sí,Muy religioso,Maestría,Operarios semicapacitados,Un poco infeliz,35–39
+454,Diariamente,Mujer,32,9–11 años,Sí,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Un poco infeliz,30–34
+455,1 vez,Hombre,22,3 meses o menos,No,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,20–24
+456,1 vez,Mujer,22,1–2 años,Sí,Nada religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,20–24
+457,Diariamente,Hombre,37,12 o más años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Un poco infeliz,35–39
+458,4–10 veces,Mujer,22,1–2 años,No,Nada religioso,Alguna educación superior,Personal administrativo,Más feliz que la media,20–24
+459,2 veces,Hombre,37,12 o más años,Sí,Nada religioso,Maestría,Operarios semicapacitados,Más feliz que la media,35–39
+460,3 veces,Mujer,32,12 o más años,Sí,Bastante religioso,Estudios secundarios,Personal administrativo,Un poco infeliz,30–34
+461,1 vez,Mujer,37,12 o más años,Sí,Bastante religioso,Alguna educación superior,"Clero, ventas y técnicos",Un poco infeliz,35–39
+462,4–10 veces,Mujer,42,12 o más años,Sí,Un poco religioso,Algún estudio de posgrado,Altos ejecutivos,Más feliz que la media,40–44
+463,Diariamente,Mujer,42,12 o más años,Sí,Muy religioso,Estudios primarios,"Clero, ventas y técnicos",Muy infeliz,40–44
+464,Diariamente,Hombre,37,9–11 años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Un poco infeliz,35–39
+465,Diariamente,Mujer,32,12 o más años,Sí,Un poco religioso,Alguna educación superior,Altos ejecutivos,Un poco infeliz,30–34
+466,3 veces,Hombre,27,3–5 años,No,Anti religioso,Maestría,Operarios semicapacitados,Muy feliz,25–29
+467,4–10 veces,Hombre,37,9–11 años,Sí,Nada religioso,Maestría,Trabajadores no cualificados,Felicidad media,35–39
+468,4–10 veces,Mujer,27,3–5 años,No,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,25–29
+469,1 vez,Hombre,42,12 o más años,Sí,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,40–44
+470,1 vez,Mujer,47,12 o más años,Sí,Muy religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,45–49
+471,4–10 veces,Mujer,27,3–5 años,Sí,Un poco religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,25–29
+472,1 vez,Mujer,27,6–8 años,Sí,Muy religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,25–29
+473,Diariamente,Hombre,27,1–2 años,Sí,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,25–29
+474,Diariamente,Mujer,27,6–8 años,Sí,Bastante religioso,Alguna educación superior,Operarios semicapacitados,Un poco infeliz,25–29
+475,3 veces,Mujer,42,12 o más años,Sí,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,40–44
+476,4–10 veces,Mujer,27,9–11 años,Sí,Bastante religioso,Estudios secundarios,Trabajadores no cualificados,Felicidad media,25–29
+477,1 vez,Hombre,27,1–2 años,No,Nada religioso,Maestría,Trabajadores manuales capacitados,Un poco infeliz,25–29
+478,1 vez,Hombre,32,3–5 años,No,Bastante religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,30–34
+479,1 vez,Mujer,27,6–8 años,Sí,Un poco religioso,Alguna educación superior,Altos ejecutivos,Felicidad media,25–29
+480,3 veces,Mujer,32,9–11 años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Más feliz que la media,30–34
+481,3 veces,Hombre,27,3–5 años,Sí,Nada religioso,Maestría,Trabajadores no cualificados,Un poco infeliz,25–29
+482,1 vez,Mujer,18,6 meses–1 año,No,Muy religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,Menor de 20
+483,1 vez,Mujer,32,9–11 años,Sí,Bastante religioso,Maestría,Altos ejecutivos,Muy feliz,30–34
+484,4–10 veces,Mujer,32,6–8 años,Sí,Nada religioso,Algún estudio de posgrado,Operarios semicapacitados,Más feliz que la media,30–34
+485,4–10 veces,Hombre,37,12 o más años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,35–39
+486,4–10 veces,Mujer,37,9–11 años,No,Anti religioso,Doctorado,Trabajadores manuales capacitados,Felicidad media,35–39
+487,Diariamente,Mujer,32,9–11 años,Sí,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,30–34
+488,4–10 veces,Hombre,52,12 o más años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,50–54
+489,4–10 veces,Mujer,42,12 o más años,Sí,Anti religioso,Estudios secundarios,Altos ejecutivos,Felicidad media,40–44
+490,1 vez,Hombre,52,12 o más años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Felicidad media,50–54
+491,2 veces,Hombre,37,12 o más años,Sí,Un poco religioso,Maestría,Operarios semicapacitados,Muy feliz,35–39
+492,Diariamente,Mujer,22,3–5 años,No,Un poco religioso,Estudios secundarios,Personal administrativo,Más feliz que la media,20–24
+493,Diariamente,Hombre,27,6–8 años,Sí,Anti religioso,Maestría,Operarios semicapacitados,Un poco infeliz,25–29
+494,1 vez,Hombre,27,3–5 años,Sí,Un poco religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,25–29
+495,Diariamente,Hombre,47,12 o más años,Sí,Bastante religioso,Algún estudio de posgrado,Operarios semicapacitados,Muy feliz,45–49
+496,Diariamente,Mujer,42,12 o más años,Sí,Bastante religioso,Estudios secundarios,Altos ejecutivos,Muy infeliz,40–44
+497,4–10 veces,Hombre,27,3–5 años,No,Un poco religioso,Alguna educación superior,Personal administrativo,Más feliz que la media,25–29
+498,4–10 veces,Mujer,32,6–8 años,Sí,Bastante religioso,Maestría,"Clero, ventas y técnicos",Muy feliz,30–34
+499,1 vez,Hombre,32,4–6 meses,Sí,Un poco religioso,Estudios secundarios,Personal administrativo,Más feliz que la media,30–34
+500,3 veces,Hombre,47,12 o más años,Sí,Muy religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,45–49
+501,Diariamente,Hombre,37,12 o más años,Sí,Nada religioso,Doctorado,Trabajadores manuales capacitados,Más feliz que la media,35–39
+502,4–10 veces,Hombre,22,3–5 años,Sí,Nada religioso,Algún estudio de posgrado,Operarios semicapacitados,Más feliz que la media,20–24
+503,1 vez,Hombre,27,3–5 años,No,Nada religioso,Alguna educación superior,"Clero, ventas y técnicos",Muy feliz,25–29
+504,4–10 veces,Mujer,52,12 o más años,Sí,Muy religioso,Estudios universitarios,Altos ejecutivos,Felicidad media,50–54
+505,1 vez,Hombre,27,3–5 años,No,Un poco religioso,Alguna educación superior,Personal administrativo,Felicidad media,25–29
+506,1 vez,Mujer,27,9–11 años,Sí,Bastante religioso,Estudios universitarios,Altos ejecutivos,Más feliz que la media,25–29
+507,1 vez,Hombre,32,6–8 años,Sí,Un poco religioso,Alguna educación superior,Trabajadores no cualificados,Más feliz que la media,30–34
+508,4–10 veces,Hombre,32,6–8 años,Sí,Nada religioso,Maestría,"Clero, ventas y técnicos",Muy infeliz,30–34
+509,3 veces,Hombre,22,1–2 años,No,Anti religioso,Alguna educación superior,Personal administrativo,Un poco infeliz,20–24
+510,4–10 veces,Hombre,22,3–5 años,Sí,Un poco religioso,Maestría,Operarios semicapacitados,Más feliz que la media,20–24
+511,4–10 veces,Hombre,42,12 o más años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,40–44
+512,2 veces,Mujer,57,12 o más años,Sí,Anti religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,55 o más
+513,4–10 veces,Mujer,32,3–5 años,Sí,Un poco religioso,Maestría,Trabajadores manuales capacitados,Un poco infeliz,30–34
+514,1 vez,Hombre,27,3–5 años,Sí,Anti religioso,Estudios universitarios,"Clero, ventas y técnicos",Más feliz que la media,25–29
+515,4–10 veces,Hombre,32,6–8 años,Sí,Bastante religioso,Estudios universitarios,Altos ejecutivos,Más feliz que la media,30–34
+516,2 veces,Hombre,57,12 o más años,Sí,Anti religioso,Algún estudio de posgrado,"Clero, ventas y técnicos",Más feliz que la media,55 o más
+517,4–10 veces,Mujer,42,12 o más años,Sí,Bastante religioso,Alguna educación superior,Trabajadores manuales capacitados,Un poco infeliz,40–44
+518,4–10 veces,Hombre,37,9–11 años,Sí,Anti religioso,Maestría,Trabajadores manuales capacitados,Felicidad media,35–39
+519,3 veces,Hombre,42,12 o más años,Sí,Un poco religioso,Algún estudio de posgrado,Operarios semicapacitados,Muy infeliz,40–44
+520,1 vez,Mujer,52,12 o más años,Sí,Un poco religioso,Alguna educación superior,"Clero, ventas y técnicos",Más feliz que la media,50–54
+521,2 veces,Mujer,27,6–8 años,Sí,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Felicidad media,25–29
+522,Diariamente,Hombre,32,6–8 años,Sí,Nada religioso,Estudios secundarios,"Clero, ventas y técnicos",Un poco infeliz,30–34
+523,1 vez,Hombre,22,3–5 años,No,Bastante religioso,Alguna educación superior,Jefes de negocio,Muy feliz,20–24
+524,3 veces,Hombre,27,6–8 años,Sí,Un poco religioso,Maestría,Operarios semicapacitados,Más feliz que la media,25–29
+525,Diariamente,Mujer,37,12 o más años,Sí,Anti religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,35–39
+526,4–10 veces,Mujer,32,12 o más años,Sí,Un poco religioso,Algún estudio de posgrado,Altos ejecutivos,Felicidad media,30–34
+527,4–10 veces,Mujer,27,6–8 años,No,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,25–29
+528,1 vez,Mujer,32,6–8 años,Sí,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Felicidad media,30–34
+529,1 vez,Hombre,32,1–2 años,Sí,Nada religioso,Alguna educación superior,Jefes de negocio,Más feliz que la media,30–34
+530,Diariamente,Mujer,42,12 o más años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Un poco infeliz,40–44
+531,4–10 veces,Hombre,32,9–11 años,Sí,Un poco religioso,Alguna educación superior,Trabajadores manuales capacitados,Más feliz que la media,30–34
+532,4–10 veces,Hombre,37,3–5 años,Sí,Anti religioso,Doctorado,Operarios semicapacitados,Felicidad media,35–39
+533,1 vez,Mujer,27,3–5 años,Sí,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Felicidad media,25–29
+534,Diariamente,Mujer,42,12 o más años,Sí,Un poco religioso,Alguna educación superior,"Clero, ventas y técnicos",Felicidad media,40–44
+535,1 vez,Hombre,27,9–11 años,Sí,Muy religioso,Doctorado,Operarios semicapacitados,Muy feliz,25–29
+536,Diariamente,Hombre,37,9–11 años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Un poco infeliz,35–39
+537,Diariamente,Mujer,27,6–8 años,Sí,Anti religioso,Alguna educación superior,Personal administrativo,Felicidad media,25–29
+538,3 veces,Mujer,27,6–8 años,Sí,Bastante religioso,Estudios secundarios,Altos ejecutivos,Un poco infeliz,25–29
+539,3 veces,Hombre,32,9–11 años,Sí,Nada religioso,Alguna educación superior,"Clero, ventas y técnicos",Más feliz que la media,30–34
+540,Diariamente,Mujer,18,6 meses–1 año,Sí,Nada religioso,Estudios secundarios,Altos ejecutivos,Felicidad media,Menor de 20
+541,Diariamente,Mujer,32,12 o más años,Sí,Un poco religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,30–34
+542,2 veces,Mujer,22,6–8 años,No,Bastante religioso,Alguna educación superior,"Clero, ventas y técnicos",Felicidad media,20–24
+543,1 vez,Hombre,32,6–8 años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Muy feliz,30–34
+544,4–10 veces,Hombre,27,3–5 años,Sí,Nada religioso,Maestría,Operarios semicapacitados,Un poco infeliz,25–29
+545,1 vez,Mujer,22,1–2 años,Sí,Muy religioso,Alguna educación superior,Trabajadores manuales capacitados,Felicidad media,20–24
+546,Diariamente,Mujer,32,12 o más años,No,Un poco religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy infeliz,30–34
+547,Diariamente,Mujer,42,12 o más años,Sí,Nada religioso,Estudios secundarios,Altos ejecutivos,Un poco infeliz,40–44
+548,4–10 veces,Hombre,42,12 o más años,Sí,Un poco religioso,Doctorado,Trabajadores manuales capacitados,Más feliz que la media,40–44
+549,Diariamente,Hombre,32,9–11 años,No,Nada religioso,Maestría,"Clero, ventas y técnicos",Un poco infeliz,30–34
+550,Diariamente,Mujer,32,12 o más años,Sí,Un poco religioso,Estudios primarios,Altos ejecutivos,Muy infeliz,30–34
+551,4–10 veces,Hombre,57,12 o más años,Sí,Muy religioso,Doctorado,"Clero, ventas y técnicos",Muy feliz,55 o más
+552,Diariamente,Hombre,47,12 o más años,Sí,Bastante religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,45–49
+553,2 veces,Mujer,42,12 o más años,Sí,Nada religioso,Algún estudio de posgrado,Operarios semicapacitados,Felicidad media,40–44
+554,Diariamente,Hombre,37,12 o más años,Sí,Un poco religioso,Algún estudio de posgrado,Operarios semicapacitados,Felicidad media,35–39
+555,Diariamente,Hombre,37,12 o más años,Sí,Muy religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Un poco infeliz,35–39
+556,4–10 veces,Hombre,27,9–11 años,Sí,Nada religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,25–29
+557,2 veces,Hombre,37,12 o más años,Sí,Nada religioso,Estudios universitarios,Trabajadores manuales capacitados,Más feliz que la media,35–39
+558,Diariamente,Mujer,32,12 o más años,Sí,Anti religioso,Alguna educación superior,Trabajadores manuales capacitados,Un poco infeliz,30–34
+559,4–10 veces,Hombre,32,9–11 años,Sí,Un poco religioso,Algún estudio de posgrado,Operarios semicapacitados,Felicidad media,30–34
+560,2 veces,Hombre,37,12 o más años,Sí,Bastante religioso,Maestría,Trabajadores manuales capacitados,Muy infeliz,35–39
+561,4–10 veces,Mujer,27,1–2 años,No,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Muy feliz,25–29
+562,3 veces,Mujer,47,12 o más años,Sí,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Un poco infeliz,45–49
+563,Diariamente,Hombre,37,12 o más años,Sí,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,35–39
+564,Diariamente,Mujer,27,3–5 años,No,Nada religioso,Alguna educación superior,Trabajadores manuales capacitados,Muy feliz,25–29
+565,2 veces,Mujer,27,9–11 años,Sí,Bastante religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,25–29
+566,1 vez,Mujer,22,3–5 años,Sí,Un poco religioso,Estudios universitarios,Altos ejecutivos,Felicidad media,20–24
+567,Diariamente,Hombre,52,6–8 años,No,Bastante religioso,Estudios universitarios,Trabajadores manuales capacitados,Muy feliz,50–54
+568,2 veces,Mujer,27,3–5 años,Sí,Anti religioso,Estudios universitarios,Personal administrativo,Muy feliz,25–29
+569,4–10 veces,Mujer,37,12 o más años,Sí,Nada religioso,Algún estudio de posgrado,Operarios semicapacitados,Más feliz que la media,35–39
+570,2 veces,Mujer,27,3–5 años,No,Anti religioso,Algún estudio de posgrado,Personal administrativo,Muy infeliz,25–29
+571,Diariamente,Mujer,18,6 meses–1 año,Sí,Nada religioso,Estudios secundarios,Personal administrativo,Muy feliz,Menor de 20
+572,4–10 veces,Mujer,32,12 o más años,Sí,Muy religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,30–34
+573,4–10 veces,Mujer,22,3–5 años,No,Anti religioso,Estudios universitarios,Personal administrativo,Muy feliz,20–24
+574,2 veces,Hombre,32,3–5 años,Sí,Bastante religioso,Maestría,Operarios semicapacitados,Más feliz que la media,30–34
+575,1 vez,Mujer,22,1–2 años,Sí,Un poco religioso,Maestría,Trabajadores manuales capacitados,Un poco infeliz,20–24
+576,3 veces,Mujer,42,12 o más años,Sí,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,40–44
+577,1 vez,Hombre,32,6–8 años,Sí,Bastante religioso,Estudios universitarios,"Clero, ventas y técnicos",Más feliz que la media,30–34
+578,Diariamente,Hombre,37,12 o más años,No,Un poco religioso,Alguna educación superior,Operarios semicapacitados,Un poco infeliz,35–39
+579,1 vez,Hombre,42,12 o más años,Sí,Un poco religioso,Estudios universitarios,Operarios semicapacitados,Felicidad media,40–44
+580,1 vez,Hombre,27,3–5 años,Sí,Anti religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,25–29
+581,2 veces,Hombre,37,12 o más años,Sí,Bastante religioso,Doctorado,Trabajadores no cualificados,Felicidad media,35–39
+582,4–10 veces,Hombre,37,12 o más años,Sí,Un poco religioso,Doctorado,Operarios semicapacitados,Más feliz que la media,35–39
+583,3 veces,Hombre,22,1–2 años,No,Nada religioso,Estudios secundarios,Personal administrativo,Felicidad media,20–24
+584,3 veces,Hombre,32,3–5 años,Sí,Un poco religioso,Doctorado,Operarios semicapacitados,Un poco infeliz,30–34
+585,2 veces,Hombre,32,12 o más años,Sí,Muy religioso,Doctorado,Operarios semicapacitados,Muy feliz,30–34
+586,Diariamente,Mujer,52,12 o más años,Sí,Anti religioso,Maestría,Trabajadores manuales capacitados,Muy feliz,50–54
+587,Diariamente,Hombre,47,12 o más años,No,Anti religioso,Maestría,Operarios semicapacitados,Muy feliz,45–49
+588,3 veces,Mujer,32,12 o más años,Sí,Bastante religioso,Estudios universitarios,"Clero, ventas y técnicos",Más feliz que la media,30–34
+589,4–10 veces,Mujer,32,12 o más años,Sí,Un poco religioso,Alguna educación superior,Personal administrativo,Un poco infeliz,30–34
+590,4–10 veces,Mujer,27,6–8 años,Sí,Bastante religioso,Estudios universitarios,Altos ejecutivos,Un poco infeliz,25–29
+591,Diariamente,Hombre,42,12 o más años,Sí,Un poco religioso,Maestría,Operarios semicapacitados,Un poco infeliz,40–44
+592,4–10 veces,Mujer,42,12 o más años,Sí,Nada religioso,Alguna educación superior,Personal administrativo,Un poco infeliz,40–44
+593,Diariamente,Hombre,27,6–8 años,Sí,Nada religioso,Algún estudio de posgrado,Trabajadores manuales capacitados,Más feliz que la media,25–29
+594,3 veces,Hombre,32,9–11 años,Sí,Bastante religioso,Alguna educación superior,"Clero, ventas y técnicos",Felicidad media,30–34
+595,4–10 veces,Hombre,47,12 o más años,Sí,Un poco religioso,Estudios universitarios,"Clero, ventas y técnicos",Un poco infeliz,45–49
+596,1 vez,Hombre,22,1–2 años,Sí,Anti religioso,Estudios secundarios,Jefes de negocio,Muy feliz,20–24
+597,4–10 veces,Mujer,32,9–11 años,Sí,Nada religioso,Maestría,Trabajadores manuales capacitados,Más feliz que la media,30–34
+598,2 veces,Hombre,32,9–11 años,Sí,Nada religioso,Algún estudio de posgrado,Operarios semicapacitados,Muy feliz,30–34
+599,2 veces,Hombre,22,6–8 años,Sí,Un poco religioso,Maestría,Operarios semicapacitados,Un poco infeliz,20–24
+600,1 vez,Mujer,32,12 o más años,Sí,Un poco religioso,Alguna educación superior,Altos ejecutivos,Muy feliz,30–34
